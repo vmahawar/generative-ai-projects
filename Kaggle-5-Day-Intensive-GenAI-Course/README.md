@@ -145,3 +145,12 @@ Day 5 Assignments:
  ## Bonus Day
 
  - Notebook
+
+
+ ### Acknowledgments:
+
+I extend my heartfelt gratitude 🙏 to the Kaggle community, all the faculties, experts, trainers—especially [Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige/), [Anant Nawalgaria](https://www.linkedin.com/in/anant-nawalgaria/), and [Mark McDonald](https://www.linkedin.com/in/markmcdonald0/) — for their invaluable guidance and insightful training notebooks during the Kaggle 5-day GenAI Course. Their support has been instrumental in making this project possible.
+
+For more about the course, please visit Kaggle 5-day GenAI Course.
+
+Blog Post: [Harnessing Generative AI to Understand Mental Health](https://whizdba.wordpress.com/2025/04/07/harnessing-generative-ai-to-understand-mental-health-a-capstone-journey/)
