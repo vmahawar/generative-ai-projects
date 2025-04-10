@@ -144,8 +144,12 @@ Day 5 Assignments:
 
  ## Bonus Day
 
- - Notebook
+ - [Notebook](./Bonus-Day/gen-ai-bonus-day-extra-api-features-to-try.ipynb)
 
+ ## Capstone Project
+  
+   - [Mental Health and Wellbeing Summary](./Day-6-Capstone-Project/Mental_Health_Capstone_Project.pdf)
+   - [Notebook](./Day-6-Capstone-Project/gen-ai-capstone-2025-q1-mental-health.ipynb)
 
  ### Acknowledgments:
 
