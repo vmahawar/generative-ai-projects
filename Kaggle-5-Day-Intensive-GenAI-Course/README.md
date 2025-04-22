@@ -1,5 +1,7 @@
 # [Kaggle 5 day GenAI Course](https://www.kaggle.com/learn-guide/5-day-genai)
 
+![alt text](kaggle-5-day-gen-ai.png)
+
 ## Day 0
 ### [Troubleshooting and FAQs](https://www.kaggle.com/code/markishere/day-0-troubleshooting-and-faqs/notebook)
 ### [How to use Kaggle Public API](https://www.kaggle.com/docs/api)
