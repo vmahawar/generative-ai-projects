@@ -172,12 +172,11 @@ This repo serves solely as an educational reference for learners and researchers
 
 - 📘 **Course Source**: [NPTEL - Introduction to Large Language Models](https://nptel.ac.in/)
 
-- 🏫 **Institution**: [IIT Delhi](https://home.iitd.ac.in/)
+- 🏫 **Institution**: IIT Madras, IIT Delhi, SWAYAM and NPTEL
 
-- 👨‍🏫 **Lead Instructor**: [Prof. Tanmoy Chakraborty](https://tanmoychak.com/)
+- 👨‍🏫 **Lead Instructor**: [Prof. Tanmoy Chakraborty](https://www.linkedin.com/in/tanmoy-chakraborty-89553324) and [Prof. Soumen Chakrabarti](https://www.linkedin.com/in/soumen-chakrabarti-6555b4)
 
-- 🌐 **Course Assistant**: [Anwoy Chatterjee](https://c-anwoy.github.io/)
-
+- 🌐 **Course Assistant**: [Poulami Ghosh](https://www.linkedin.com/in/poulamighosh/) and [Anwoy Chatterjee](https://www.linkedin.com/in/anwoy-chatterjee/)
 ---
 
 ## 🤝 Connect with Me
