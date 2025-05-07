@@ -162,7 +162,7 @@ This repository is organized by week and covers foundational concepts, cutting-e
 
 ## 🙏 Acknowledgements
 
-This repository contains course content and materials from the **Introduction to Large Language Models** course offered by **IIT Delhi** under the **NPTEL** initiative. All credit goes to the faculty members **Prof. Tanmoy Chakraborty**, **Anwoy Chatterjee**, and contributors as acknowledged in the slides.
+This repository contains course content and materials from the **Introduction to Large Language Models** course offered by **IIT Delhi** under the **NPTEL** initiative. All credit goes to the faculty members **Prof. Tanmoy Chakraborty**, **Prof. Soumen Chakrabarti** and lecturers **Anwoy Chatterjee** and **Poulami Ghosh**, and contributors as acknowledged in the slides.
 
 This repo serves solely as an educational reference for learners and researchers.
 
